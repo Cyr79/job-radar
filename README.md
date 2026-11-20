@@ -1,4 +1,4 @@
-# Job Radar
+﻿# Job Radar
 
 **Case study (closed source).** This repository holds screenshots, a demo and the story behind the project. It contains no code.
 
@@ -74,8 +74,17 @@ The source code, prompts, scoring weights and data sources stay private. Company
 
 I'm Cyrille Pillon, a Senior Product Manager in Stockholm. I built Job Radar to learn agentic workflows hands-on, and I use it every morning.
 
-[cyrille-pillon.com](https://cyrille-pillon.com) · [LinkedIn](https://www.linkedin.com/in/cyrille-pillon/)
+[cyrille-pillon.com](https://cyrille-pillon.com) Â· [LinkedIn](https://www.linkedin.com/in/cyrille-pillon/)
+
+## Proof of authorship
+
+The source code of Job Radar is private. On 2026-11-20 I timestamped a fingerprint of it on the Bitcoin blockchain with [OpenTimestamps](https://opentimestamps.org), so anyone can check that this exact code existed on that date without seeing it.
+
+- `proofs/job-radar-src-2026-11-20.sha256`: SHA-256 of the private source manifest
+- `proofs/job-radar-src-2026-11-20.ots`: the timestamp proof (verify it on opentimestamps.org)
+
+Commits are signed with my SSH key.
 
 ---
 
-© 2026 Cyrille Pillon. All rights reserved. No source code is published in this repository.
+Â© 2026 Cyrille Pillon. All rights reserved. No source code is published in this repository.
