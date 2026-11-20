@@ -1,4 +1,4 @@
-﻿# Job Radar
+# Job Radar
 
 **Case study (closed source).** This repository holds screenshots, a demo and the story behind the project. It contains no code.
 
